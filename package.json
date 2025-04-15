@@ -1,11 +1,11 @@
 {
-  "name": "vanilla-app-template",
+  "name": "Try 2",
   "private": true,
   "version": "1.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/vanilla-app-template/",
+    "build": "vite build --base=/Try 2/",
     "preview": "vite preview"
   },
   "devDependencies": {
@@ -19,5 +19,7 @@
   "dependencies": {
     "vite-plugin-full-reload": "^1.2.0",
     "vite-plugin-html-inject": "^1.1.2"
+    
   }
+  
 }
